@@ -12,8 +12,8 @@ You are free to use the files for any purpose. These files are provided as-is wi
 
 This mounts to the existing heatsink using M2x0.4 screws. I recommend at least a 6mm long screw. 
 
-To remove the existing fan and shroud , you have to peel off the "EVGA GEFORCE RTX" sticker and remove the 3 screws underneath, as well as 3 screws opposite that are not covered by a sticker. To remove the fan there are 3 screws underneath the fan. This may void the warranty. I am not responsible if the warranty is voided as a result of any actions. 
+To remove the existing shroud , you have to peel off the "EVGA GEFORCE RTX" sticker and remove the 3 screws underneath, as well as 3 screws opposite that are not covered by a sticker. To remove the fan there are 3 screws underneath the fan. This may void the warranty. I am not responsible if the warranty is voided as a result of any actions or any damage from either removing the heatsink nor building this. 
 
-## NOTE THAT THE 3D PRINTED FILE HAS BEEN UNTESTED. 
+## NOTE THAT THE 3D PRINTED FILE HAS NOT BEEN TESTED.
 
-They have been designed with identical dimensions to the laser-cut version that I have built, and have been designed to be easily printed. 
+The file has been designed with identical dimensions to the laser-cut version that I have built, and has been designed to be easily printed. 
