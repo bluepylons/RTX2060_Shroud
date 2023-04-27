@@ -1,6 +1,6 @@
 # About 
 
-![Overview](https://github.com/bluepylons/RTX2060_Shroud/raw/master/IMG_20191219_231309.jpg)
+![Overview](https://github.com/bluepylons/RTX2060_Shroud/raw/main/IMG_20191219_231309.jpg)
 
 This is a mounting shroud to mount two 92mm fans onto the single-fan [EVGA RTX 2060 XC](https://www.evga.com/products/product.aspx?pn=06G-P4-2063-KR). This may work on the RTX 2060 SC but is unconfirmed that the mounting holes have not been changed. This also may work on 1660 and 1660 Ti variants that use a simlar cooler, but has not been tested or confirmed to work on those either.
 
